@@ -1,0 +1,10 @@
+Bank Information
+
+Account No: 630147896
+IFSC Code: BHG3265
+A/c Holder Name: Sachin Srivastava
+Branch : Indira Nagar
+Net Banking User Name: PrimeSachin  
+Password:AntiTankMissile
+ATM Card Number:987456258552
+ATM PIN : 9865s
